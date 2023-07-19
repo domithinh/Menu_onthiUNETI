@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Hoá đơn điện"
+        android:id= "@+id/itemhoadondien"/>
+    <item android:title="Hoá đơn bán hàng"
+        android:id= "@+id/itemhoadonbanhang"/>
+    <item android:title="Chăm sóc khách hàng"
+        android:id= "@+id/itemchamsoc"/>
+    <item android:title="Gọi điện cho khách hàng"
+        android:id= "@+id/itemgoidien"/>
+    <item android:title="Nhắn tin cho khách hàng"
+        android:id= "@+id/itemnhantin"/>
+    <item android:title="Danh sách khách hàng"
+        android:id= "@+id/itemdskhachhang"/>
+    <item android:title="Thoát"
+        android:id= "@+id/itemthoat"/>
+</menu>
